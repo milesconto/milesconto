@@ -6,7 +6,7 @@ Mechanical Engineering @ Purdue University
 
 Active Aero & Avionics @ PSP-Indy
 
-Parvi gradus, magni saltus.
+*Parvi gradus, magni saltus.*
 
 <!---
 TheMagnificentMiles/TheMagnificentMiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
